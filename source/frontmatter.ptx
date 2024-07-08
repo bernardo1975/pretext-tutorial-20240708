@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Dr Bernd Sing</personname>
+      <department>Department of Mathematics</department>
+      <institution>UWI Cave Hill</institution>
     </author>
     <date>
       <today />
@@ -18,7 +18,7 @@
   <colophon>
 
     <website>
-      <url href="https://pretextbook.org">My Website</url>
+      <url href="https://bb-math.com/moodle/">Moodle Course Site</url>
     </website>
 
     <copyright>
