@@ -5,4 +5,25 @@
 
   <p> Text of section. Some math: <m> x^2+y^2=z^2</m> <me>x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}</me></p>
 
+  <sage language="python"><input>print(2+2)</input></sage>
+  <sage><input>plot(x^2,-1,1)</input></sage>
+
+  <theorem xml:id="thm-ffff">
+    <statement>
+      <p>
+        this theorem
+      </p>
+    </statement>
+  </theorem>
+
+  <proof>
+    <p>
+      Proof goes here.
+    </p>
+  </proof>
+  
+
+  <example>
+    Give an example for <xref ref="thm-ffff"/>.
+  </example>
 </section>
